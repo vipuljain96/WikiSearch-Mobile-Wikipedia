@@ -5,7 +5,7 @@ Wikipedia Mobile App using Flutter:
   * Wikipedia Page View
   * Top News Articles in India
 
-The Following App has the functionality likes:
+The App has the following functionalities like:
   * Can Search Any Information Over Wikipedia
   * Can See the Top News headlines of India.
   * Can See their History.
@@ -21,7 +21,7 @@ API used:
           https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages%7Cpageterms&generator=prefixsearch&redirects=1&formatversion=2&piprop=thumbnail&pithumbsize=50&pilimit=10&wbptterms=description&gpslimit=10&gpssearch=albert&gpsoffset=0
           
   * Display Each Wikipedia Page: 
-          https://en.wikipedia.org/w/api.php?action=query&prop=info&inprop=url&format=json&pageids=$query
+          https://en.wikipedia.org/w/api.php?action=query&prop=info&inprop=url&format=json&pageids=$albert
     
 
 
