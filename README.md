@@ -1,4 +1,4 @@
-# wikisearch
+# WikiSearch
 
 Wikipedia Mobile App using Flutter:
   * Wikipedia Search
